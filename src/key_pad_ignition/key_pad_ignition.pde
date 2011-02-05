@@ -1,5 +1,8 @@
-/* MPR121 Keypad Example Phone Dialing Code
- by: Jim Lindblom
+/* For a keypad ignition system
+ by: Devin Vitone
+ 
+ original source borrow from:
+ Jim Lindblom
  SparkFun Electronics
  created on: 1/6/10
  license: CC-SA 3.0
